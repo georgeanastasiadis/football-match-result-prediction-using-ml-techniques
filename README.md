@@ -75,6 +75,8 @@ The models used for this thesis are:
 - Artificial Neural Networks
 
 To evaluate the model results I used **precision, recall, accuracy, F1-score and AUC score.**
+To improve the performance of the models, we tuned different hyperparameters using **GridSearchCV**. In the case of Random Forest and XGBoost, due to the large number of hyperparameters to be tuned and the wide range of values they
+can take, we first implemented **RandomisedSearchCV** to narrow down the options and then **GridSearchCV**.
 
 ## Results
 
