@@ -22,7 +22,7 @@ contained information on advanced football statistics (Understats Data).
 
 ## EDA
 
-In this step I did data exploration for the 4 European football leagues to better understand the datasets.
+In this step I did data exploration for the 4 European football leagues to better understand the datasets. The results of the EDA for the different championships, are in the eda folder.
 
 ## Testing Scenarios
 
