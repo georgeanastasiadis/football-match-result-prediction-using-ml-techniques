@@ -5,7 +5,7 @@ My diploma thesis for the completion of my Integrated Master`s degree in Electri
 In recent years, football match predictions have become increasingly popular. With the help
 of data and machine learning techniques, predictions have become more accurate. The availability
 of data and the rise of social media have also made it easier for fans and sports betting
-companies to access it. In this thesis, I developed machine learning methods that I trained using publicly available data for the 4 main European 
+companies to access it. In this thesis, we developed machine learning methods that we trained using publicly available data for the 4 main European 
 football leagues to predict the outcome of football matches.
 
 ## Code and Packages
