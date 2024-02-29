@@ -51,7 +51,7 @@ leagues in season 2018/2019.
 
 After data collection, the data were reviewed to resolve any issues that might exist. Because we didn’t want to delete any rows from the dataset that contain null values we had to
 manually retrieve the missing values using the websites Flashcore and Understats. We then proceeded to the creation of new features. The table below shows the feature that we have created. 
-For better understanding of the different features, you can read the section 4.3.1 of the pdf file.
+For better understanding of the different features, you can read the section 4.3.1 of the pdf file or you can read the notebooks in the fe folder. 
 
 <p align='center'>
   <img width="500" src="img/features.PNG" alt="Alt text" title="Features">
